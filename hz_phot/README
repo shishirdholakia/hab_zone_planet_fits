@@ -1,0 +1,5 @@
+File format:
+
+Column 1: TIME =  BJD-2454900+0.5  (note the 0.5 day offset!) 
+Column 2: FLUX =  PDC_FLUX/median(PDC_FLUX) - 1.0 
+Column 3: FLUX ERROR = PDC_ERR/median(PDC_FLUX)

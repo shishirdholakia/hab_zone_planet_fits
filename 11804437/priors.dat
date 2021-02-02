@@ -1,0 +1,12 @@
+P_p1                 uniform              448.9268278,449.10167236
+t0_p1                uniform              144.61150700000002,144.802055
+p_p1                 uniform              0.010327,0.0030359999999999996
+b_p1                 normal               0.8535,1.0          
+q1_Kepler            normal               0.4205822199649737,0.05666000789977681
+q2_Kepler            normal               0.28444254537493757,0.016538282593252223
+ecc_p1               fixed                0.0                 
+omega_p1             fixed                90.0                
+rho                  normal               841.8349746870001,91.09143323250001
+mdilution_Kepler     fixed                1.0                 
+mflux_Kepler         fixed                0.0                 
+sigma_w_Kepler       loguniform           0.1,1000.0          
